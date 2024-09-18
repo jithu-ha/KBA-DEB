@@ -1,0 +1,11 @@
+div class="flex justify-between bg-blue-300   p-4">
+        <img src="images.png"  alt="" class="size-12">
+        <div class="flex m-5 space-x-3">
+            <a href="">HOME</a>
+            <a href="">COURSES</a>
+            <a href="">CONTACT US</a>
+            <a href="">ADD COURSE</a>
+            <a href="">LOGOUT</a>
+
+        </div>
+    </div>
